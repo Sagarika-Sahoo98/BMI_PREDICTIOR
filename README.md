@@ -9,4 +9,4 @@ Machine Learning based BMI prediction web app built using Streamlit.
 - Health indicator
 
 ## Run locally
-streamlit run app.py
+https://bmi-ai-predictor.onrender.com/
